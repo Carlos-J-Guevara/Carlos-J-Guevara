@@ -19,7 +19,7 @@ Me caracteriza mis buenos valores como persona, y uno de ellos es el que siempre
 💼 Proyectos.
 
 En este perfil podrás apreciar proyectos de código abierto o de práctica para evaluar mi desempeño como programador.
- Todos los relacionados por nombre clave, siempre empezaran con Práctica. 
+ Todos los relacionados por nombre clave, siempre empezaran con Practica (no le puedo agregar la tilde correspondiente por las configuracionde de idioma :) ). 
 
 🌱 Mi compromiso.
 
