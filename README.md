@@ -3,6 +3,7 @@
 ![https://github.com/Carlos-J-Guevara](./imagen_fondo_github.png)
 🌟 ¡Bienvenidos a mi GitHub!🙂
 [![linkedin](https://www.linkedin.com/in/carlos-jose-angel-guevara-micciollo-a0925616b/)
+
 Me gusta crear interfaces que democraticen los productos que mis empleadores o clientes desean ofrecer, aprovechando las plusvalías que nos otorga esta era tecnológica.
  
 Me enfoco en crear interfaces modernas, funcionales y accesibles para todos intuitivamente, para dar la experiencia de usuario más amigable posible pero siempre de la mano de un producto de calidad profesional.
