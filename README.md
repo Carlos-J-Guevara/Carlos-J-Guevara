@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy <a>Carlos Guevara</a> 👋</h1>
 
 ![https://github.com/Carlos-J-Guevara](./imagen_fondo_github.png)
-<i class="fa-brands fa-linkedin"></i> [![linkedin](https://www.linkedin.com/in/carlos-jose-angel-guevara-micciollo-a0925616b/)
+[![linkedin](https://www.linkedin.com/in/carlos-jose-angel-guevara-micciollo-a0925616b/)
 
 <!--
 **Carlos-J-Guevara/Carlos-J-Guevara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
