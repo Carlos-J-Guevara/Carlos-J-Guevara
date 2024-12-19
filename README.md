@@ -5,7 +5,7 @@
 [![Likedinl](https://img.shields.io/badge/Likedin-blue?style=plastic&logo=%3Ci%20class%3D%22fa-brands%20fa-linkedin%22%3E%3C%2Fi%3E&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcarlos-jose-angel-guevara-micciollo-a0925616b%2F
 )](https://www.linkedin.com/in/carlos-jose-angel-guevara-micciollo-a0925616b/)
 
-## Sobre mi
+## 🔥Sobre mi🔥
 - 💻 Desarrollador Front-end Jr  👋
 - Interfaces responsivas 📲
 - Tecnologías📡 
