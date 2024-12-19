@@ -8,7 +8,7 @@
 ## Sobre mi
 - 💻 Desarrollador Front-end Jr  👋
 - Interfaces responsivas 📲
-- Tecnologías📡 <>
+- Tecnologías📡 
 - Aprendizaje constante 📊
 <br>
 
