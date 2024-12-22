@@ -25,7 +25,8 @@
 <td width="50%">
 <h3 align="center">Recipe page Frontend Mentor</h3>
 <div align="center">
-<a href="https://github.com/Carlos-J-Guevara/Practica-recipe-page-main" target="_blank"><img src="https://github.com/Carlos-J-Guevara/Practica-recipe-page-main/blob/main/design/desktop-design.jpg" width="400" alt="Recipe page Frontend Mentor"></a>
+<a href="https://github.com/Carlos-J-Guevara/Practica-recipe-page-main" target="_blank"><img src="https://github.com/Carlos-J-Guevara/Practica-recipe-page-main/blob/main/design/desktop-design.jpg" width="200" alt="Recipe page Frontend Mentor"></a>
+
 
 <!--
 **Carlos-J-Guevara/Carlos-J-Guevara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
