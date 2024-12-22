@@ -8,7 +8,6 @@
 - Interfaces responsivas 📲
 - Tecnologías📡 
 - Aprendizaje constante 📊
-<br>
 
 ## Tecnologías
 <div style="display: flex; gap: 10px; align-items: center;">
