@@ -45,12 +45,14 @@
 <a href="https://github.com/Carlos-J-Guevara/Practica-recipe-page-main" target="_blank"><img src="https://github.com/Carlos-J-Guevara/Practica-recipe-page-main/blob/main/design/desktop-design.jpg" width="200" alt="Recipe page Frontend Mentor"></a>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+#### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/Carlos-J-Guevara">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Carlos-J-Guevara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carlos-J-Guevara&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/Carlos-J-Guevara">
+    <div style="display: flex; justify-content: center; gap: 20px;">
+      <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Carlos-J-Guevara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carlos-J-Guevara&layout=compact&langs_count=8&theme=algolia"/>
+    </div>
+  </a>
 </p>
 
 <!--
