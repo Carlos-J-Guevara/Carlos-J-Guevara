@@ -40,8 +40,8 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Recipe page Frontend Mentor</h3>
-<div align="center">
+<h4 align="start">Recipe page Frontend Mentor</h4>
+<div align="start">
 <a href="https://github.com/Carlos-J-Guevara/Practica-recipe-page-main" target="_blank"><img src="https://github.com/Carlos-J-Guevara/Practica-recipe-page-main/blob/main/design/desktop-design.jpg" width="200" alt="Recipe page Frontend Mentor"></a>
 <br>
 
