@@ -20,6 +20,12 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="pointer-events: none;">
 </div>
 
+## Herramientas de Desarrollo
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="pointer-events: none;">
+</div>
+
+
 ## Habilidades Blandas
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
   <img src="https://img.shields.io/badge/Toma%20de%20decisiones-4CAF50?style=for-the-badge&logo=target&logoColor=black" alt="Toma de decisiones" style="pointer-events: none;">
