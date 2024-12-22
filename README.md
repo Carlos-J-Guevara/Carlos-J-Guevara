@@ -20,6 +20,23 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="pointer-events: none;">
 </div>
 
+## Habilidades Blandas
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://img.shields.io/badge/Toma%20de%20decisiones-4CAF50?style=for-the-badge&logo=target&logoColor=black" alt="Toma de decisiones" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Liderazgo-0052CC?style=for-the-badge&logo=leader&logoColor=white" alt="Liderazgo" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Proactividad-FF5722?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Proactividad" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Pensamiento%20crítico-673AB7?style=for-the-badge&logo=brain&logoColor=white" alt="Pensamiento crítico" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Comunicación%20efectiva-0D47A1?style=for-the-badge&logo=megaphone&logoColor=white" alt="Comunicación efectiva" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Honestidad-FFEB3B?style=for-the-badge&logo=trustpilot&logoColor=black" alt="Honestidad" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Gestión%20del%20tiempo-6A1B9A?style=for-the-badge&logo=clock&logoColor=white" alt="Gestión del tiempo" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Compromiso-3F51B5?style=for-the-badge&logo=handshake&logoColor=white" alt="Compromiso" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Resolución%20de%20problemas-E53935?style=for-the-badge&logo=code&logoColor=white" alt="Resolución de problemas" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Inteligencia%20emocional-AD1457?style=for-the-badge&logo=heart&logoColor=white" alt="Inteligencia emocional" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Trabajo%20en%20equipo-0288D1?style=for-the-badge&logo=teams&logoColor=white" alt="Trabajo en equipo" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Aprendizaje%20continuo-388E3C?style=for-the-badge&logo=book&logoColor=white" alt="Aprendizaje continuo" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Atención%20al%20detalle-5D4037?style=for-the-badge&logo=magnifying-glass&logoColor=white" alt="Atención al detalle" style="pointer-events: none;">
+</div>
+
 ## Proyectos
 <table>
 <tr>
