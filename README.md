@@ -20,13 +20,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="pointer-events: none;">
 </div>
 
-## Herramientas de Desarrollo
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="pointer-events: none;">
-</div>
+## Herramientas de desarrollo, librerías y frameworks.
+<div style="display: flex; gap: 10px; align-items: center;"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="pointer-events: none;"> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" style="pointer-events: none;"> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" alt="Prettier" style="pointer-events: none;"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" style="pointer-events: none;"> </div>
 
 
-## Habilidades Blandas
+## Habilidades blandas
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
   <img src="https://img.shields.io/badge/Toma%20de%20decisiones-4CAF50?style=for-the-badge&logo=target&logoColor=black" alt="Toma de decisiones" style="pointer-events: none;">
   <img src="https://img.shields.io/badge/Liderazgo-0052CC?style=for-the-badge&logo=leader&logoColor=white" alt="Liderazgo" style="pointer-events: none;">
