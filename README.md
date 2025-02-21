@@ -52,10 +52,9 @@
 <table>
 <tr>
 <td width="50%">
-<h4 align="start">Recipe page Frontend Mentor</h4>
 <div align="start">
 <a href="https://github.com/Carlos-J-Guevara/Practica-recipe-page-main" target="_blank"><img src="https://github.com/Carlos-J-Guevara/Practica-recipe-page-main/blob/main/design/desktop-design.jpg" width="200" alt="Recipe page Frontend Mentor"></a>
-<a href="https://github.com/Carlos-J-Guevara/conference-ticket-generator-main" target="_blank"><img src="https://github.com/Carlos-J-Guevara/conference-ticket-generator-main/blob/main/design/desktop/desktop-design-form.jpg" height="273" alt="conference-ticket-generator-main
+<a href="https://github.com/Carlos-J-Guevara/conference-ticket-generator-main" target="_blank"><img src="https://github.com/Carlos-J-Guevara/conference-ticket-generator-main/blob/main/design/desktop/desktop-design-form.jpg" height="273" width="250" alt="conference-ticket-generator-main
 "></a>
 <br>
 
