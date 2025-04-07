@@ -35,8 +35,8 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" style="pointer-events: none;"> 
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" style="pointer-events: none;">
   <img src="https://img.shields.io/badge/FormSubmit-FAFAFA?style=for-the-badge&logoColor=black" alt="FormSubmit" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="pointer-events: none;">
 </div>
-
 
 ## Soft skills
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
