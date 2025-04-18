@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" style="pointer-events: none;">
   <img src="https://img.shields.io/badge/FormSubmit-FAFAFA?style=for-the-badge&logoColor=black" alt="FormSubmit" style="pointer-events: none;">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="pointer-events: none;">
 </div>
 
 ## Soft skills
