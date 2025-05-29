@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm <a>Carlos Guevara</a> 👋</h1>
 
-![https://github.com/Carlos-J-Guevara](./wallpaper_updated1517.png)
+![https://github.com/Carlos-J-Guevara](./wallpaper_updated1518.png)
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-jose-angel-guevara-micciollo-a0925616b/)
 
