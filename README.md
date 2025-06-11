@@ -2,7 +2,7 @@
 
 ![https://github.com/Carlos-J-Guevara](./wallpaper_updated1518.png)
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-j-guevara/) [![Portafolio](https://img.shields.io/static/v1?label=&message=Portafolio&color=000000&style=for-the-badge)](https://carlos-j-guevara.github.io/portfolio_personal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-j-guevara/) [![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=000000&style=for-the-badge)](https://carlos-j-guevara.github.io/portfolio_personal/) [![Behance](https://img.shields.io/static/v1?label=&message=Behance&color=053EFF&style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/carlosguevara63)
 
 ## About me
 - 💻 Junior Front-end Developer  👋
