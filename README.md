@@ -80,6 +80,15 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Carlos-J-Guevara/portfolio_personal" target="_blank">
+        <img src="https://github.com/Carlos-J-Guevara/portfolio_personal/blob/main/images/images_of_the_projects/portfolio-carlos-guevara.png" width="380" alt="image project">
+      </a>
+    </td>
+    <td>
+      </td>
+  </tr>
 </table>
 
 
