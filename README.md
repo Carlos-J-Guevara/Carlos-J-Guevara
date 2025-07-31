@@ -5,8 +5,9 @@
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-j-guevara/) 
 [![Code Portfolio](https://img.shields.io/static/v1?label=&message=Code%20Portfolio&color=333333&style=for-the-badge&logo=github&logoColor=white)](https://carlos-j-guevara.github.io/portfolio_personal/) 
-[![Design Portfolio](https://img.shields.io/static/v1?label=&message=Design%20Portfolio&color=6C63FF&style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/vf4FJTsvaSP0rbuBpkUKce/Design-Portfolio-%E2%80%93-Carlos-Guevara?t=Mn0oBaixt4o8YMUK-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&node-id=2-8&starting-point-node-id=2%3A8) 
+[![Design Portfolio](https://img.shields.io/static/v1?label=&message=Design%20Portfolio&color=1769FF&style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gallery/230731433/Portfolio-2025) 
 [![Behance](https://img.shields.io/static/v1?label=&message=Behance&color=1DA1F2&style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/carlosguevara63)
+
 
 ## About me
 - 💻 Junior Front-end Developer  👋
